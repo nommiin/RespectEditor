@@ -1,0 +1,7 @@
+V:\RespectEditor\RespectEditor\bin\Debug\RespectEditor.exe.config
+V:\RespectEditor\RespectEditor\bin\Debug\RespectEditor.exe
+V:\RespectEditor\RespectEditor\bin\Debug\RespectEditor.pdb
+V:\RespectEditor\RespectEditor\obj\Debug\RespectEditor.csprojAssemblyReference.cache
+V:\RespectEditor\RespectEditor\obj\Debug\RespectEditor.csproj.CoreCompileInputs.cache
+V:\RespectEditor\RespectEditor\obj\Debug\RespectEditor.exe
+V:\RespectEditor\RespectEditor\obj\Debug\RespectEditor.pdb
